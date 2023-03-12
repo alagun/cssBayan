@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", sans-serif;
+}
+
+body {
+  background-color: #fff0a6;
+}
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
+}
+
+header {
+  padding: 3em 0 1em;
+}
+
+h1 {
+  display: block;
+  width: 20%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 0.5em;
+  text-align: left;
+  font-weight: 700;
+  color: #49146d;
+  font-family: cursive;
+}

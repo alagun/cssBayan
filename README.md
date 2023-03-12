@@ -1,1 +1,1 @@
-https://alagun.github.io/cssBayan/cssBayan/index.html
+https://alagun.github.io/cssBayan/index.html
