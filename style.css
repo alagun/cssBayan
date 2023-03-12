@@ -25,6 +25,30 @@ h1 {
   padding: 0 0.5em;
   text-align: left;
   font-weight: 700;
+  font-size: 2em;
   color: #49146d;
   font-family: cursive;
+}
+
+@media screen and (max-width: 1120px) {
+  h1 {
+    width: 25%;
+  }
+}
+@media screen and (max-width: 900px) {
+  header {
+    padding-top: 2em;
+  }
+  h1 {
+    width: 30%;
+    font-size: 1.5em;
+  }
+}
+@media screen and (max-width: 600px) {
+  header {
+    padding-top: 1em;
+  }
+  h1 {
+    font-size: 1em;
+  }
 }
