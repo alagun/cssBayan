@@ -6,17 +6,17 @@
 }
 
 body {
-  background-color: #fff0a6;
+  background-color: #fbf3cc;
 }
 .wrapper {
   width: 90%;
   margin: 0 auto;
 }
+/* start header */
 
 header {
   padding: 3em 0 1em;
 }
-
 h1 {
   display: block;
   width: 20%;
@@ -29,6 +29,27 @@ h1 {
   color: #49146d;
   font-family: cursive;
 }
+/* end header */
+/* start main */
+/* end main */
+/* start footer */
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em 2em;
+  background-color: #a724ff4a;
+  border: 2px solid #49146d;
+  border-radius: 20px;
+}
+.logo__box {
+  height: 3em;
+  width: 3em;
+}
+.footer__logo {
+  height: 100%;
+  width: auto;
+}
+/* end footer */
 
 @media screen and (max-width: 1120px) {
   h1 {
